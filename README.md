@@ -1,14 +1,9 @@
 <div align="center">
 
-<!-- HERO: animated banner + clear positioning -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:050816,35:111827,70:172554,100:00e5ff&height=210&section=header&text=JEGANMURALI&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=AI%20SYSTEMS%20ENGINEER%20%E2%80%A2%20AGENTIC%20PRODUCTS%20%E2%80%A2%20VOICE%20AI&descAlignY=60&descSize=15" alt="Jeganmurali AI Systems Engineer" />
+<a href="https://github.com/JeganMurali"><img src="https://svg-banners.vercel.app/api?type=rainbow&text1=JEGANMURALI&text2=AI%20Systems%20Engineer%20%E2%80%A2%20Agentic%20AI%20%E2%80%A2%20Voice%20AI&width=850&height=260" alt="Jeganmurali AI Systems Engineer" /></a>
 
 <a href="mailto:jeganmurali04@gmail.com"><img src="https://img.shields.io/badge/WORK_WITH_ME-00e5ff?style=for-the-badge&logo=rocket&logoColor=050816" /></a>
 <a href="https://github.com/JeganMurali?tab=repositories"><img src="https://img.shields.io/badge/EXPLORE_MY_BUILDS-111827?style=for-the-badge&logo=github&logoColor=white" /></a>
-
-<br/><br/>
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=900&color=00E5FF&center=true&vCenter=true&width=760&lines=I+turn+AI+ideas+into+reliable+systems.;Models+%2B+data+%2B+tools+%2B+guardrails.;Build+%E2%86%92+measure+%E2%86%92+improve." alt="animated value proposition" />
 
 </div>
 
@@ -30,12 +25,12 @@ Currently building AI automation at **Ecom Ignite**. Available for select freela
 ```text
 ┌─ JEGANMURALI ────────────┐
 │ role     AI Systems Eng. │
-│ mission  useful AI      │
-│ focus    agents + data  │
-│ edge     safe execution │
-│ loop     build → learn  │
-│ status   open to builds │
-└──────────────────────────┘
+│ mission  useful AI       │
+│ focus    agents + data   │
+│ edge     safe execution  │
+│ loop     build → learn   │
+│ status   open to builds  │
+└───────────────────────────┘
 ```
 
 </td>
@@ -160,14 +155,22 @@ I care about more than a model demo: controlled tool use, measurable behavior, p
 
 ---
 
-## Contribution arcade
+## My contribution city 🏙️
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/JeganMurali/JeganMurali/output/github-contribution-grid-snake-dark.svg" alt="animated contribution snake game" />
+<img src="https://gitcity.natrajx.in/api/svg?username=JeganMurali" alt="Jeganmurali's GitHub contributions as a 3D city skyline" width="100%" />
 </p>
 
 <p align="center">
-<a href="https://gitcity.natrajx.in/?username=JeganMurali"><img src="https://img.shields.io/badge/OPEN_MY_3D_GITHUB_CITY-172554?style=for-the-badge&logo=github&logoColor=00e5ff" alt="explore GitHub City" /></a>
+<sub>Every commit builds a skyscraper — <a href="https://gitcity.natrajx.in/?username=JeganMurali">drive through the live 3D version</a></sub>
+</p>
+
+---
+
+## Contribution arcade 🐍
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/JeganMurali/JeganMurali/output/github-contribution-grid-snake-dark.svg" alt="animated contribution snake game" />
 </p>
 
 ---
