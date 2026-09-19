@@ -1,98 +1,136 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=00F7FF&center=true&vCenter=true&width=650&lines=Hi+there%2C+I'm+Jeganmurali+%F0%9F%91%8B;AI+Systems+Engineer;Agentic+AI+%7C+RAG+%7C+Voice+AI+%7C+ML+Research" alt="Typing SVG" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:050816,45:111827,100:00e5ff&height=190&section=header&text=JEGANMURALI&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20SYSTEMS%20ENGINEER%20%E2%80%A2%20RELIABLE%20AGENTIC%20PRODUCTS&descAlignY=61&descSize=15" alt="animated profile banner" />
+
+<a href="mailto:jeganmurali04@gmail.com"><img src="https://img.shields.io/badge/WORK_WITH_ME-00e5ff?style=for-the-badge&logo=rocket&logoColor=050816" /></a>
+<a href="https://github.com/JeganMurali?tab=repositories"><img src="https://img.shields.io/badge/VIEW_MY_BUILDS-111827?style=for-the-badge&logo=github&logoColor=white" /></a>
 
 </div>
 
+<br/>
+
+<table align="center">
+<tr>
+<td width="57%" valign="top">
+
+## I turn AI ideas into systems.
+
+I design and ship **agentic AI products** that connect models, data, and tools safely — with validation, guardrails, and observability from day one.
+
+Currently building AI automation at **Ecom Ignite**. Open to select freelance and contract builds in agentic systems, RAG, voice AI, data intelligence, and AI operations.
+
+</td>
+<td width="43%" valign="top">
+
+```text
+┌─ SYSTEM PROFILE ─────────┐
+│ role     AI Systems Eng. │
+│ focus    Agentic AI      │
+│          RAG + Voice AI  │
+│ strength Tool orchestration│
+│ mode     Build → Measure │
+│          → Improve       │
+└──────────────────────────┘
+```
+
+</td>
+</tr>
+</table>
+
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=JeganMurali&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
-  <a href="https://github.com/JeganMurali?tab=followers"><img src="https://img.shields.io/github/followers/JeganMurali?label=Followers&style=social" /></a>
+  <img src="https://komarev.com/ghpvc/?username=JeganMurali&label=PROFILE%20VIEWS&color=00e5ff&style=flat-square" alt="profile views" />
+  <a href="mailto:jeganmurali04@gmail.com"><img src="https://img.shields.io/badge/OPEN_TO_SELECT_BUILDS-00e5ff?style=flat-square&logoColor=050816" alt="available for work" /></a>
 </p>
 
 ---
 
-### 🧠 About Me
+## What I can build for you
 
-I'm an **AI Systems Engineer** who designs and ships agentic AI products end-to-end — architecture, tool integration, validation, and observability, not just prompting a model. I connect LLMs to real data and tools safely, instrument systems so their behavior is inspectable in production, and focus on using AI efficiently rather than over-engineering it.
+<table>
+<tr>
+<td width="33%" valign="top">
 
-My work spans agentic business-data platforms, accessibility-focused voice AI, published interpretable ML research, and rapid model fine-tuning.
+### ⚙️ Agentic Systems
 
-- 💼 **Currently:** AI Engineer at **Ecom Ignite**, building automation and agentic workflows for ecommerce operations
-- 🔭 **Open to:** freelance and contract AI engineering work — agentic systems, data intelligence, RAG, voice AI, and AI operations/observability
-- 📄 **Published:** *Neuro-CRISPR-KAN: A Hybrid CNN-Transformer Architecture for Off-Target Prediction in Cystic Fibrosis* — ICAUC 2026
-- 🎓 **B.Tech, Artificial Intelligence and Data Science** — K.S. Rangasamy College of Technology (Expected 2026)
+LLM products with tools, workflows, permissions, human approval, and reliable execution.
 
----
+</td>
+<td width="33%" valign="top">
 
-### 🛠️ Tech Stack
+### 🔎 Data Intelligence
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
-  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
-  <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
-  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
-  <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-</p>
+RAG and business-data systems that answer questions with controlled access and verifiable outputs.
 
-<p align="center">
-  <b>AI Systems:</b> Agentic system design · Tool orchestration · Guardrails · Validation harnesses · Observability/tracing · RAG design<br/>
-  <b>Speech AI:</b> Whisper ASR · TTS · Speech-to-Speech Pipelines · Indian-Accent Speech Generation
-</p>
+</td>
+<td width="33%" valign="top">
+
+### 🎙️ Voice AI
+
+Natural speech-to-speech experiences for education, accessibility, and customer workflows.
+
+</td>
+</tr>
+</table>
 
 ---
 
-### 🚀 Featured Projects
+## Selected work
 
-| Project | Description |
-|---|---|
-| **Mira** — Agentic Business-Data SaaS Platform | End-to-end AI architecture for an agentic platform letting teams safely query company data, with a validation harness, permission-boundaries, and a production observability system (Mira Monitor) |
-| **Viyan** — Speech-to-Speech Educational Assistant | Accessibility-focused voice assistant for blind children, combining Whisper ASR, LLaMA 70B, and fine-tuned Indian-accent TTS in an end-to-end voice pipeline |
-| [**Neuro-CRISPR-KAN**](https://github.com/JeganMurali/Neuro-CRISPR-KAN) | Hybrid CNN-Transformer architecture (1D-CNN + DNABERT-2 + KAN) for CRISPR-Cas9 off-target prediction — published at ICAUC 2026 with 0.94 accuracy on the CFTR ΔF508 dataset |
-| [**AURA**](https://github.com/JeganMurali/AURA-) | AI wellness assistant with mood tracking, guided journaling, and LoRA-tuned LLM orchestration for emotion-aware support |
+### 🧩 Mira · Agentic Business-Data SaaS
+> Safe company-data querying for teams.
 
----
+Read-only tools, SQL generation and validation, permission boundaries, approval paths, and **Mira Monitor** for latency, errors, activity, memory, and token cost.
 
-### 🐍 Contribution Snake
+### 🎙️ Viyan · Accessible Voice AI
+> Speech-to-speech learning for blind children.
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/JeganMurali/JeganMurali/output/github-contribution-grid-snake.svg#gh-light-mode-only" alt="snake animation" />
-  <img src="https://raw.githubusercontent.com/JeganMurali/JeganMurali/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" alt="snake animation dark" />
-</p>
+Whisper ASR + LLaMA 70B + fine-tuned TTS combined into an end-to-end voice pipeline for natural educational interactions.
 
----
+### 🧬 [Neuro-CRISPR-KAN](https://github.com/JeganMurali/Neuro-CRISPR-KAN) · Published ML Research
+> Hybrid CNN + DNABERT-2 + KAN for CRISPR off-target prediction.
 
-### 🏆 Trophies
+Published at ICAUC 2026, with interpretable outputs designed for safety-oriented research workflows.
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=JeganMurali&theme=tokyonight&no-frame=true&row=1&column=6" alt="trophies" />
-</p>
+### 🧠 [AURA](https://github.com/JeganMurali/AURA-) · AI Wellness Assistant
+> Emotion-aware support with mood tracking and guided journaling.
+
+LoRA-tuned LLM orchestration for personalized wellness interactions.
 
 ---
 
-### 📊 GitHub Stats
+## My stack
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=JeganMurali&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JeganMurali&layout=compact&theme=tokyonight&hide_border=true" />
+<img src="https://skillicons.dev/icons?i=python,pytorch,fastapi,flask,typescript,js,postgres,supabase,docker,git,github,linux&perline=6" alt="technology stack" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JeganMurali&theme=tokyonight&hide_border=true" />
+<b>Systems:</b> Agentic design · Tool orchestration · Guardrails · Evaluation · Observability · RAG<br/>
+<b>Models:</b> LLaMA · Hugging Face · Whisper · LoRA · TTS · DNABERT-2 · KAN
 </p>
 
 ---
 
-### 🌐 Connect With Me
+## Build signals
 
 <p align="center">
-  <a href="https://github.com/JeganMurali"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="mailto:jeganmurali04@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=JeganMurali&show_icons=true&theme=transparent&title_color=00e5ff&icon_color=00e5ff&text_color=c9d1d9&hide_border=true&count_private=true" alt="GitHub stats" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JeganMurali&layout=compact&theme=transparent&title_color=00e5ff&text_color=c9d1d9&hide_border=true" alt="top languages" />
+</p>
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/JeganMurali/JeganMurali/output/github-contribution-grid-snake-dark.svg" alt="animated contribution snake" />
+</p>
+
+---
+
+## Let's build something useful.
+
+<p align="center">
+  <a href="mailto:jeganmurali04@gmail.com"><img src="https://img.shields.io/badge/START_A_CONVERSATION-jeganmurali04%40gmail.com-00e5ff?style=for-the-badge&logo=gmail&logoColor=050816" alt="email me" /></a>
+  <a href="https://github.com/JeganMurali"><img src="https://img.shields.io/badge/GITHUB-JeganMurali-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 </p>
 
 <div align="center">
-  <sub>Open to select freelance AI engineering builds</sub>
+<sub>Reliable AI is not just a model. It is the whole system around it.</sub>
 </div>
