@@ -43,8 +43,6 @@ I'm a software builder from **Pallippatti, Tamil Nadu, India**, working across A
 |---|---|
 | [**AURA**](https://github.com/JeganMurali/AURA-) | AI-powered mental health assistant that bridges the emotional gap between users and therapists through empathetic conversation and guided mindfulness |
 | [**Neuro-CRISPR-KAN**](https://github.com/JeganMurali/Neuro-CRISPR-KAN) | Research project applying Kolmogorov-Arnold Networks to neuro/CRISPR-related data |
-| [**Python-for-data-science**](https://github.com/JeganMurali/Python-for-data-science) | Hands-on data science exercises and workflows in Python |
-| [**DataScienceEcosystem**](https://github.com/JeganMurali/DataScienceEcosystem) | Notes and notebooks covering the broader data science toolchain |
 
 ---
 
